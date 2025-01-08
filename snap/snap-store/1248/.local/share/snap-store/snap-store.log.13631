@@ -1,0 +1,2 @@
+2024-12-30 23:55:07.684573 ERROR error_observer: Provider ratingsModelProvider:RatingsModelProvider#3e07e(null) failed
+	GrpcError: gRPC Error (code: 2, codeName: UNKNOWN, message: HTTP connection completed with 502 instead of 200, details: [], rawResponse: null, trailers: {alt-svc: h3=":443"; ma=2592000, server: Caddy, content-length: 0, date: Mon, 30 Dec 2024 16:55:07 GMT})

@@ -1,0 +1,9 @@
+2025/01/03-13:29:40.175 45bf Reusing MANIFEST /home/fouralist/snap/spotify/common/.cache/spotify/Default/IndexedDB/https_xpui.app.spotify.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/03-13:29:40.175 45bf Recovering log #3
+2025/01/03-13:29:40.182 45bf Reusing old log /home/fouralist/snap/spotify/common/.cache/spotify/Default/IndexedDB/https_xpui.app.spotify.com_0.indexeddb.leveldb/000003.log 
+2025/01/03-13:30:28.568 45bf Level-0 table #5: started
+2025/01/03-13:30:28.585 45bf Level-0 table #5: 4135257 bytes OK
+2025/01/03-13:30:28.588 45bf Delete type=0 #3
+2025/01/03-13:34:03.905 45bf Level-0 table #7: started
+2025/01/03-13:34:03.926 45bf Level-0 table #7: 4210407 bytes OK
+2025/01/03-13:34:03.931 45bf Delete type=0 #4
